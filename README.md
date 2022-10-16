@@ -1,5 +1,13 @@
-Hi 👋, I'm Moin Khan
-<img>https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif</img>
+                              Hi 👋, I'm Moin Khan
+
+
+
+![2-46](https://user-images.githubusercontent.com/99876741/196039301-9e8e70ef-ede1-41be-af23-dc155f3a7374.gif)
+
+
+
+
+
 <!--
 **moinkhan07/moinkhan07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
