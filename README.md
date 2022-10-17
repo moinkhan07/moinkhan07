@@ -1,4 +1,4 @@
-                              Hi 👋, I'm Moin Khan
+Hi 👋, I'm Moin Khan
 
 
 
