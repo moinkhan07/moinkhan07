@@ -4,7 +4,7 @@
 
 ![2-46](https://user-images.githubusercontent.com/99876741/196039301-9e8e70ef-ede1-41be-af23-dc155f3a7374.gif)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moinkhan07)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
