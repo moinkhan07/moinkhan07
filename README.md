@@ -1,4 +1,4 @@
-# Hi 👋, I'm Moin Khan
+<h1 align = "center" >Hi 👋, I'm Moin Khan</h1>
 
 
 
