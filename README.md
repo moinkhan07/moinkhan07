@@ -33,8 +33,8 @@
  <h2 align = "center" >📊 My Github Stats</h2>
  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moinkhan07&show_icons=true&locale=en" alt="moinkhan07" /></p>
+<p align="center" >&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=moinkhan07&show_icons=true&locale=en" alt="moinkhan07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moinkhan07&" alt="moinkhan07" /></p>
+<p align = "center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moinkhan07&" alt="moinkhan07" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moinkhan07&show_icons=true&locale=en&layout=compact" alt="moinkhan07" /></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=moinkhan07&show_icons=true&locale=en&layout=compact" alt="moinkhan07" /></p>
