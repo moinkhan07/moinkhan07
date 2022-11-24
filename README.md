@@ -39,6 +39,6 @@
 
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=moinkhan07&show_icons=true&locale=en&layout=compact" alt="moinkhan07" /></p>
 
-<hr height = "0.5" >
+<hr height = "0.1" >
 
 <img src = "https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" >
