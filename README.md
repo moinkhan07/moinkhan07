@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning SQL 
 
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1w0lIKRxxSk5BPbkSWkhxm603-OSB9kD5/view?usp=share_link)
+
 - 👨‍💻  Checkout my portfolio [My Portfolio](https://moinkhan07.github.io/)
 
 - 💬 Ask me about Java | Javascript
  
 - 📫 How to reach me moin6k@gmail.com
-
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1w0lIKRxxSk5BPbkSWkhxm603-OSB9kD5/view?usp=share_link)
 
 <h3 align="center">Connect with me:</h3>
 
