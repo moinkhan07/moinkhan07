@@ -7,13 +7,20 @@
 # A Passionate Java Back-End Developer
 ### An ambitious and self-motivated Java Back-End Developer pursuer with considerable technical skills who possesses self-discipline to work with minimal supervision.An expeditious learner who can absorb new ideas and can communicate effectively.Interested in Data Structure & Algorithm.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moinkhan07&label=Profile%20views&color=0e75b6&style=flat" alt="moinkhan07" /> </p>
 <!-- - 🔭 I’m currently working on  -->
 - 🌱 I’m currently learning SQL 
+
+- 👨‍💻  Checkout my portfolio [My Portfolio](https://moinkhan07.github.io/)
 
 - 💬 Ask me about Java | Javascript
  
 - 📫 How to reach me moin6k@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moinkhan07)](https://github.com/anuraghazra/github-readme-stats)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1w0lIKRxxSk5BPbkSWkhxm603-OSB9kD5/view?usp=share_link)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moinkhan07&label=Profile%20views&color=0e75b6&style=flat" alt="moinkhan07" /> </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+
