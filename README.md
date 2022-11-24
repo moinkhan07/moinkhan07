@@ -7,6 +7,7 @@
 <h2>An ambitious and self-motivated Java Back-End Developer pursuer with considerable technical skills who possesses self-discipline to work with minimal supervision.An expeditious learner who can absorb new ideas and can communicate effectively.Interested in Data Structure & Algorithm.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moinkhan07&label=Profile%20views&color=0e75b6&style=flat" alt="moinkhan07" /> </p>
+
 <!-- - 🔭 I’m currently working on  -->
 
 - 🌱 I’m currently learning SQL 
