@@ -9,9 +9,9 @@
 
 <!-- - 🔭 I’m currently working on  -->
 - 🌱 I’m currently learning SQL 
-- 
+
 - 💬 Ask me about Java | Javascript
-- 
+ 
 - 📫 How to reach me moin6k@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moinkhan07)](https://github.com/anuraghazra/github-readme-stats)
