@@ -37,4 +37,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moinkhan07&" alt="moinkhan07" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moinkhan07&show_icons=true&locale=en&layout=compact" alt="moinkhan07" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moinkhan07&show_icons=true&locale=en&layout=compact" alt="moinkhan07" /></p>
