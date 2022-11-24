@@ -32,7 +32,7 @@
 
  <h2 align = "center" >📊 My Github Stats</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=moinkhan07-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=moinkhan07&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center" >&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=moinkhan07&show_icons=true&locale=en" alt="moinkhan07" /></p>
 
