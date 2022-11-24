@@ -15,3 +15,5 @@
 - 📫 How to reach me moin6k@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moinkhan07)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moinkhan07&label=Profile%20views&color=0e75b6&style=flat" alt="moinkhan07" /> </p>
