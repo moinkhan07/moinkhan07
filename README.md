@@ -34,9 +34,9 @@
 
 <p align = "center"><img src ="https://github-profile-trophy.vercel.app/?username=moinkhan07&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy">
 
-<p align="center" >&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=moinkhan07&show_icons=true&locale=en" alt="moinkhan07" /></p>
+<p align="left" >&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=moinkhan07&show_icons=true&locale=en" alt="moinkhan07" /></p>
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=moinkhan07&show_icons=true&locale=en&layout=compact" alt="moinkhan07" /></p>
+<p align="right" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=moinkhan07&show_icons=true&locale=en&layout=compact" alt="moinkhan07" /></p>
 
 <p align = "center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moinkhan07&" alt="moinkhan07" /></p>
 
