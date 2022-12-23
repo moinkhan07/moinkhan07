@@ -10,9 +10,9 @@
 
 <!-- - 🔭 I’m currently working on  -->
 
-- 🌱 I’m currently learning SQL 
+- 🌱 I’m currently learning Maven, Hibernate, Spring, Spring Boot
 
-- 💬 Ask me about Java | Javascript
+- 💬 Ask me about Java | Javascript | SQL | JDBC | DBMS | HTML | CSS 
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1w0lIKRxxSk5BPbkSWkhxm603-OSB9kD5/view?usp=share_link)
 
