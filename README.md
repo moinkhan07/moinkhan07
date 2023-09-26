@@ -10,7 +10,7 @@
 
 <!-- - 🔭 I’m currently working on  -->
 
-- 🌱 I’m currently learning Spring Security
+- 🌱 I’m currently learning Android Development
 
 - 💬 Ask me about Spring Boot | Spring | Hibernate | React.js | Maven | Java | Javascript | Python | SQL | JDBC | DBMS | HTML | CSS 
 
