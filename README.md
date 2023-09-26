@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning Spring Security
 
-- 💬 Ask me about Spring Boot | Spring | Hibernate | React.js | Maven | Java | Javascript | SQL | JDBC | DBMS | HTML | CSS 
+- 💬 Ask me about Spring Boot | Spring | Hibernate | React.js | Maven | Java | Javascript | Python | SQL | JDBC | DBMS | HTML | CSS 
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1unKucuM2BsRj1NCEVkO8ixdLEvfYTzgv/view?usp=drive_link)
 
