@@ -14,7 +14,7 @@
 
 - 💬 Ask me about Spring Boot | Spring | Hibernate | React.js | Maven | Java | Javascript | Python | SQL | JDBC | DBMS | HTML | CSS 
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1unKucuM2BsRj1NCEVkO8ixdLEvfYTzgv/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/12vy1BMHCMSAxs2aGKOMgL-tHVxAjsJb-/view?usp=sharing)
 
 - 👨‍💻  Checkout my portfolio [My Portfolio](https://moinkhan07.github.io/)
  
