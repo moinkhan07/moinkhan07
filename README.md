@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning (DSA) Data Structure & Algorithm
 
-- 💬 Ask me about Spring Boot | Spring Security | Spring | Hibernate | React.js | Maven | Java | Javascript | Python | SQL | Kotlin | Python |JDBC | DBMS | HTML | CSS 
+- 💬 Ask me about Spring Boot | Spring Security | Spring | Hibernate | React.js | React Native | AWS | Maven | Java | Javascript | Python | SQL | Kotlin | Python | DBMS | HTML | CSS 
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/12vy1BMHCMSAxs2aGKOMgL-tHVxAjsJb-/view?usp=sharing)
 
@@ -24,8 +24,8 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/moinkhan07/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/moinkhan07/" height="30" width="40" /></a>
-<a href="https://twitter.com/https://twitter.com/moin6k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/moin6k" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/moinkhan07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/moinkhan07/" height="30" width="40" /></a>
+<a href="https://twitter.com/moin6k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/moin6k" height="30" width="40" /></a>
+<a href="https://leetcode.com/moinkhan07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/moinkhan07/" height="30" width="40" /></a>
 </p>
 
 
