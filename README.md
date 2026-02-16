@@ -16,8 +16,6 @@
 - 💬 Ask me about **Spring Boot | Spring Security | Spring | Hibernate | React.js | React Native | Node.js | Express.js | MongoDB | AWS | Maven | Java | JavaScript | Python | SQL | Kotlin | DBMS | HTML | CSS**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1gvMopV5-U4li5qfx-oWLfdPt8qzujtDK/view?usp=sharing)
-
-- 👨‍💻 Checkout my portfolio [My Portfolio](https://moinkhan07.github.io/)
  
 - 📫 How to reach me **moin6k@gmail.com**
 
